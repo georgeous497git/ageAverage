@@ -1,0 +1,10 @@
+input-data:
+  data:
+    - names: ["Hardwell", "Martin Garrix", "Junkie XL", "Armin van Buuren", "Tiësto", "Oliver Heldens"]
+      ages:  [34, 26, 54, 45, 53, 27]
+    - names: ["Jhon", "Martin", "Maria", "Luana", "Kim", "Brian"]
+      ages:  [56, 99, 57, 33, 47, 61]
+    - names:
+      ages:
+    - names: "Jorge"
+      ages:
