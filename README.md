@@ -67,4 +67,3 @@ The is not data to print.
 1 - Improve the Test Coverage.
 2 - Improve the log4j2 configuration to roll the logs.
 3 - Write the log file & output data file into a dedicated folder for each one.
-
