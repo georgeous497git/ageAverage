@@ -30,6 +30,7 @@ input-data:
       ages:
 ```
 ## Requirements
+- Java 1.8
 - Gradle Build Tool (7 or greater)
 - IDE to execute the code (IntelliJ or Spring Tool Suite)
 
@@ -63,7 +64,8 @@ The is not data to print.
 ```
 
 #### TODO:
-
 1 - Improve the Test Coverage.
 2 - Improve the log4j2 configuration to roll the logs.
 3 - Write the log file & output data file into a dedicated folder for each one.
+___________________________________________________________________________________
+Thanks.
