@@ -46,4 +46,19 @@ git clone git@github.com:georgeous497git/ageAverage.git
 3 - In the console a banner will be printed (AGE AVERAGE).
 
 ## Validation
-To validate the result, the project will create two files within the **classpath** with the name **outputData.txt** and **ageAverage.log** respectively. 
+To validate the result, the project will create two files within the **classpath** with the name **outputData.txt** and **ageAverage.log** respectively.
+
+Example of output data:
+```sh
+==> Execution 1 of 4 
+Hardwell is 34 years old 
+==> Execution 2 of 4 
+Jhon is 56 years old 
+Maria is 57 years old 
+Brian is 61 years old 
+==> Execution 3 of 4 
+The is not data to print.
+==> Execution 4 of 4 
+The is not data to print.
+```
+
