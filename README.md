@@ -44,4 +44,6 @@ git clone git@github.com:georgeous497git/ageAverage.git
 ./gradlew bootRun
 ```
 3 - In the console a banner will be printed (AGE AVERAGE).
-4 - To validate the result, the project will create two files within the **classpath** with the name **outputData.txt** and **ageAverage.log** respectively. 
+
+## Validation
+To validate the result, the project will create two files within the **classpath** with the name **outputData.txt** and **ageAverage.log** respectively. 
